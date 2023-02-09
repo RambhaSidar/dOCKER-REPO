@@ -3,9 +3,7 @@ package com.example.app.bean;
 public class AppBean {
 	private String name;
 	private String value;
-	public AppBean() {
-		
-	}
+	
 	public String getName() {
 		return name;
 	}
